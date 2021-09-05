@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "16282430828@s.whatsapp.net",
+    "ownerName": "David Xtz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Dream Bot",
+    "pathImg": "./media/david.jpg",
+    "lolkey": "2bcc15fb1e522d0fb888427d",
+    "sesidInsta": "default",
+    "sessionName": "DavidSession",
+    "txtDonasi": "GOPAY : 085157226383\nTrakteer : https://trakteer.id/aqulzz\nSaweeria : https://saweria.co/aqulzz\nPulsa : 085157226383",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
